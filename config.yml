@@ -1,0 +1,7 @@
+loggerLevel: all
+configLoadInterval: 60000 # 単位 ms
+restartInterval: 5 # 単位 m
+cmd: "run"
+cwd: "test"
+arg:
+  - "a"
